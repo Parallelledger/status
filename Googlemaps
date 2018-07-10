@@ -1,0 +1,4 @@
+$> cordova plugin add https://github.com/mapsplugin/cordova-plugin-googlemaps#multiple_maps \
+    --variable API_KEY_FOR_ANDROID="..." \
+    --variable API_KEY_FOR_IOS="..."
+    
